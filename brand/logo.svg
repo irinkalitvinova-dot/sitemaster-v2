@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Мастер">
+  <g stroke="#0A0A0A" stroke-width="3" stroke-linejoin="round">
+    <rect x="6" y="31" width="30" height="12" fill="#5B2EFF"/>
+    <rect x="12" y="19" width="30" height="12" fill="#FF3D9A"/>
+    <rect x="8" y="7" width="30" height="12" fill="#FFE600"/>
+  </g>
+</svg>
